@@ -9,5 +9,5 @@ referenceFilter = []
 bot_data = "6429399819:AAFlsPbRqu1HYiGd6KBobUUQOa52h6-NJek"
 chart_id ="-4074589266"
 UTC = 3
-FROM_MINUTES = 2500
+FROM_MINUTES = 25
 POSTS_LIMIT = 5_000
